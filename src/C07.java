@@ -4,5 +4,7 @@ public class C07 {
         System.out.println("3. Gün Merhaba Github");
         System.out.println("==============");
         System.out.println("Have a wise day");
+
+        System.out.println("gitadd-commit-push");
     }
 }
