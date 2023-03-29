@@ -6,5 +6,7 @@ public class C07 {
         System.out.println("Have a wise day");
 
         System.out.println("gitadd-commit-push");
+
+        System.out.println("merhaba ben wise");
     }
 }
