@@ -1,4 +1,4 @@
-public class C07 {
+public class G01_gitHub_ilkDers {
     public static void main(String[] args) {
 
         System.out.println("3. Gün Merhaba Github");
